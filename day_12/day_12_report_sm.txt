@@ -1,0 +1,80 @@
+
+Region R = 12  * 10 = 120
+Position=(0, 0), Surface=12, Outside=10, Inside=0
+####.
+####.
+..###
+..#..
+
+Region I = 4  * 4 = 16
+Position=(0, 4), Surface=4, Outside=4, Inside=0
+##
+##
+
+Region I = 14  * 16 = 224
+Position=(5, 2), Surface=14, Outside=16, Inside=0
+.#...
+.###.
+#####
+###.#
+..#..
+
+Region C = 14  * 22 = 308
+Position=(0, 6), Surface=14, Outside=22, Inside=0
+...##.
+...###
+..##..
+###...
+.#....
+.##...
+..#...
+
+Region C = 1  * 4 = 4
+Position=(4, 7), Surface=1, Outside=4, Inside=0
+#
+
+Region F = 10  * 12 = 120
+Position=(0, 8), Surface=10, Outside=12, Inside=0
+.##
+..#
+###
+###
+.#.
+
+Region V = 13  * 10 = 130
+Position=(2, 0), Surface=13, Outside=10, Inside=0
+##..
+##..
+####
+##.#
+##..
+
+Region J = 11  * 12 = 132
+Position=(3, 6), Surface=11, Outside=12, Inside=0
+.#.
+##.
+.##
+.##
+.##
+.#.
+.#.
+
+Region E = 13  * 8 = 104
+Position=(4, 9), Surface=13, Outside=8, Inside=0
+..#
+.##
+.##
+.##
+###
+###
+
+Region M = 5  * 6 = 30
+Position=(7, 0), Surface=5, Outside=6, Inside=0
+#..
+#..
+###
+
+Region S = 3  * 6 = 18
+Position=(8, 4), Surface=3, Outside=6, Inside=0
+#.
+##

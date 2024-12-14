@@ -1,0 +1,24 @@
+
+Region O = 21  * 20 = 420
+Position=(0, 0), Surface=21, Outside=4, Inside=16
+#####
+#.#.#
+#####
+#.#.#
+#####
+
+Region X = 1  * 4 = 4
+Position=(1, 1), Surface=1, Outside=4, Inside=0
+#
+
+Region X = 1  * 4 = 8
+Position=(1, 3), Surface=1, Outside=4, Inside=0
+#
+
+Region X = 1  * 4 = 12
+Position=(3, 1), Surface=1, Outside=4, Inside=0
+#
+
+Region X = 1  * 4 = 16
+Position=(3, 3), Surface=1, Outside=4, Inside=0
+#
